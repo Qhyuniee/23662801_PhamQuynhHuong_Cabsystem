@@ -284,9 +284,10 @@ FR66: Báo cáo hiệu quả hoạt động tài xế
 - NFR11: Các thao tác quan trọng phải được lưu vết.
 - NFR12: Các chức năng mới phải có thể triển khai từng phần và hạn chế ảnh hưởng đến hệ thống đang hoạt động.
 # B11: VẼ USECASE(UC)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e2974959-d634-445e-a63d-89d9d1a4a8ad" />
 
 
-# B12: tạo usecase specification( ĐẶC TẢ USECASE)
+# B12: Tạo usecase specification( ĐẶC TẢ USECASE)
 # ĐẶC TẢ USE CASE (USE CASE SPECIFICATION)
 
 ## UC01: Đăng nhập
@@ -524,7 +525,7 @@ FR66: Báo cáo hiệu quả hoạt động tài xế
 - A2: Không tìm thấy dữ liệu → Hệ thống thông báo không có dữ liệu.
 - A3: Chuyến gặp sự cố → Nhân viên thực hiện chức năng hỗ trợ xử lý chuyến.
 
-#B13: tiêu chí chấp nhận(AC) (acceptance criteria)
+# B13: tiêu chí chấp nhận(AC) (acceptance criteria)
 xác nhận chức năng đã đáp ứng yêu cầu khách hàng
 ý nghĩa: nhờ nó mà dự án mới được nghiệm thu, cho biết khi nào chức năng hoàn thành và sẵn sàng nghiệm thu)
 
